@@ -8,9 +8,7 @@ The data I propose to visualize for my project comes from three sources:  Nation
 
 I’ve created a proof of concept visualization of this data. It's a map that shows the location of institutions that members are affiliated with and the number of members at each institution.  
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://beta.vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments)
+[![image](https://user-images.githubusercontent.com/54547762/65536325-3463d600-ded1-11e9-8d18-7bd6aa3d9fd4.png)](https://beta.vizhub.com/JCarpenter-WPI/2766fc02e0c64090a49dfaba9069d36d)
 
 ## Questions & Tasks
 
