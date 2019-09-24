@@ -14,16 +14,17 @@ I’ve created a proof of concept visualization of this data. It's a map that sh
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * Who are the members at institutions near me?
+ * Who are the members at institutions similar to mine in terms of size, public/private, and Carnegie Classification?
+ * Who are the members in my region?
+ * How do price and outcomes relate to the level of corporate engagement?
+ * What is the diversity of corporate relations office types represented by NACRO members?
+ * Are there geographic patterns to the level of corporate engagement?
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+The sketch below shows the relationship between the number of companies present on campus (a measure of corporate engagement) and price and outcomes.  Putting these two visualizations next to each other allows a user to select an interesting point on one of the charts and will see where that same institution is located on the other chart.
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+While the charts that I've sketched above would be interesting, it may be challenging to implement.  Further, there may be other institutional characteristics that may be related to price and outcomes that would be interesting to visualize.  Conceptualizing and presenting these relationships may be challenging, but also offer opportunities to let users interact with the data.
